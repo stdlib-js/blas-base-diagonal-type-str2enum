@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-diagonal-type-str2enum",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return the enumeration constant associated with a BLAS diagonal type.",
   "license": "Apache-2.0",
   "author": {
